@@ -149,11 +149,11 @@ Praktikum ini mempelajari dasar-dasar HTML dan penggunaannya untuk membuat halam
 Jawaban
 1. !DOCTYPE html berfungsi untuk memberi tahu browser bahwa dokumen menggunakan HTML5.
 2. Tag adalah penanda HTML, elemen adalah keseluruhan bagian HTML, sedangkan atribut adalah informasi tambahan pada sebuah tag.
-3. <br> digunakan untuk membuat baris baru, sedangkan <p> digunakan untuk membuat paragraf.
+3. br digunakan untuk membuat baris baru, sedangkan p digunakan untuk membuat paragraf.
 4. Atribut href berfungsi menentukan alamat atau tujuan dari hyperlink.
 5. Hyperlink internal mengarah ke halaman dalam website yang sama, sedangkan hyperlink eksternal mengarah ke website yang berbeda.
 6. src berfungsi menentukan lokasi gambar, sedangkan alt berfungsi memberikan teks alternatif jika gambar tidak dapat ditampilkan.
-7. <ul> digunakan untuk membuat daftar tidak berurutan (bullet), sedangkan ol digunakan untuk membuat daftar berurutan (angka).
+7. ul digunakan untuk membuat daftar tidak berurutan (bullet), sedangkan ol digunakan untuk membuat daftar berurutan (angka).
 8. Jika path gambar pada src salah, gambar tidak akan ditampilkan karena browser tidak menemukan file tersebut.
-9. Heading h1 sampai <h6> perlu digunakan secara terstruktur agar hierarki dan susunan informasi pada halaman web menjadi jelas dan mudah dipahami.
+9. Heading h1 sampai h6 perlu digunakan secara terstruktur agar hierarki dan susunan informasi pada halaman web menjadi jelas dan mudah dipahami.
 10. Komentar !-- ... -- berfungsi memberikan catatan atau penjelasan pada kode HTML dan tidak ditampilkan di halaman web.
