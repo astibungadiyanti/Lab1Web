@@ -124,10 +124,8 @@ Kode HTML dapat divalidasi menggunakan **W3C Markup Validation Service**.
 ## Tugas
 
 Repository dibuat dengan nama:
-
-```text
 Lab1Web
-```
+
 
 Setelah seluruh praktikum selesai, lakukan commit ke GitHub dan kumpulkan URL repository.
 
@@ -136,7 +134,7 @@ Setelah seluruh praktikum selesai, lakukan commit ke GitHub dan kumpulkan URL re
 Praktikum ini mempelajari dasar-dasar HTML dan penggunaannya untuk membuat halaman web sederhana.
 
 
-10 Soal
+##10 Soal
 1. Apa fungsi deklarasi <!DOCTYPE html> pada dokumen HTML?
 2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
 3. Apa perbedaan <p> dengan <br>? Jelaskan penggunaannya.
@@ -147,8 +145,8 @@ Praktikum ini mempelajari dasar-dasar HTML dan penggunaannya untuk membuat halam
 8. Apa yang terjadi jika path gambar pada atribut src salah?
 9. Mengapa struktur heading h1 sampai h6 perlu digunakan secara terstruktur?
 10. Apa fungsi komentar <!-- ... --> dalam kode HTML?
-
-Jawaban
+    
+##Jawaban
 1. <!DOCTYPE html> berfungsi untuk memberi tahu browser bahwa dokumen menggunakan HTML5.
 2. Tag adalah penanda HTML, elemen adalah keseluruhan bagian HTML, sedangkan atribut adalah informasi tambahan pada sebuah tag.
 3. <br> digunakan untuk membuat baris baru, sedangkan <p> digunakan untuk membuat paragraf.
