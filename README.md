@@ -136,38 +136,26 @@ Setelah seluruh praktikum selesai, lakukan commit ke GitHub dan kumpulkan URL re
 Praktikum ini mempelajari dasar-dasar HTML dan penggunaannya untuk membuat halaman web sederhana.
 
 
-10 Soal dan jawaban
-
-1. Apa fungsi <!DOCTYPE html> pada dokumen HTML?
-<!DOCTYPE html> berfungsi untuk memberi tahu browser bahwa dokumen menggunakan standar HTML.
-
-2. Apa perbedaan tag, element, dan attribute dalam HTML?
-Tag adalah penanda HTML, contohnya <p>.
-Element adalah keseluruhan struktur dari tag pembuka, isi, dan tag penutup, contohnya <p>Hello</p>.
-Attribute memberikan informasi tambahan pada element, contohnya href pada <a href="...">.
-
-3. Apa perbedaan <p> dan <br>?
-<p> digunakan untuk membuat paragraf, sedangkan <br> digunakan untuk membuat baris baru.
-
+10 Soal
+1. Apa fungsi deklarasi <!DOCTYPE html> pada dokumen HTML?
+2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
+3. Apa perbedaan <p> dengan <br>? Jelaskan penggunaannya.
 4. Apa fungsi atribut href pada tag <a>?
-href digunakan untuk menentukan alamat atau tujuan hyperlink.
-
-5. Apa perbedaan internal link dan external link?
-Internal link mengarah ke halaman lain dalam website yang sama, contohnya halaman2.html.
-External link mengarah ke website lain, contohnya https://www.google.com.
-
+5. Apa perbedaan hyperlink ke halaman internal dengan hyperlink ke website eksternal?
 6. Apa fungsi atribut src dan alt pada tag <img>?
-src digunakan untuk menentukan lokasi file gambar.
-alt digunakan untuk memberikan teks alternatif jika gambar tidak dapat ditampilkan.
-
-7. Apa perbedaan <ul> dan <ol>?
-<ul> digunakan untuk membuat daftar tidak berurutan, sedangkan <ol> digunakan untuk membuat daftar berurutan/bernomor.
-
+7. Apa perbedaan penggunaan <ul> dan <ol>?
 8. Apa yang terjadi jika path gambar pada atribut src salah?
-Gambar tidak dapat ditampilkan karena browser tidak menemukan file pada lokasi yang ditentukan.
+9. Mengapa struktur heading h1 sampai h6 perlu digunakan secara terstruktur?
+10. Apa fungsi komentar <!-- ... --> dalam kode HTML?
 
-9. Mengapa penggunaan heading <h1> sampai <h6> harus terstruktur?
-Agar struktur dan hierarki informasi pada halaman web menjadi jelas dan mudah dipahami.
-
-10. Apa fungsi komentar dalam HTML?
-Komentar digunakan untuk memberikan catatan atau penjelasan pada kode dan tidak ditampilkan pada halaman web.
+Jawaban
+1. <!DOCTYPE html> berfungsi untuk memberi tahu browser bahwa dokumen menggunakan HTML5.
+2. Tag adalah penanda HTML, elemen adalah keseluruhan bagian HTML, sedangkan atribut adalah informasi tambahan pada sebuah tag.
+3. <br> digunakan untuk membuat baris baru, sedangkan <p> digunakan untuk membuat paragraf.
+4. Atribut href berfungsi menentukan alamat atau tujuan dari hyperlink.
+5. Hyperlink internal mengarah ke halaman dalam website yang sama, sedangkan hyperlink eksternal mengarah ke website yang berbeda.
+6. src berfungsi menentukan lokasi gambar, sedangkan alt berfungsi memberikan teks alternatif jika gambar tidak dapat ditampilkan.
+7. <ul> digunakan untuk membuat daftar tidak berurutan (bullet), sedangkan <ol> digunakan untuk membuat daftar berurutan (angka).
+8. Jika path gambar pada src salah, gambar tidak akan ditampilkan karena browser tidak menemukan file tersebut.
+9. Heading <h1> sampai <h6> perlu digunakan secara terstruktur agar hierarki dan susunan informasi pada halaman web menjadi jelas dan mudah dipahami.
+10. Komentar <!-- ... --> berfungsi memberikan catatan atau penjelasan pada kode HTML dan tidak ditampilkan di halaman web.
